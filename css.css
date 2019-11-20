@@ -1,0 +1,18 @@
+#header {
+ 	max-width: 100%;
+    position: absolute;
+    margin: auto;
+    background: #373737;
+}
+#header-warp h1{
+	color: blue;
+	font-size: 45pt;
+	line-height: 45px;
+}
+#header-warp h2 {
+	font-size: 11pt;
+}
+#wapper {
+	height: 500px;
+	
+}
